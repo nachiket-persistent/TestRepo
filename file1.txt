@@ -3,7 +3,7 @@ change made to implement new idea, this change is made in master
 change made to implement new idea
 
 change 3
-change made in branch1
+change made in branch2
 change done from remote
 remote change1
 remote change2
