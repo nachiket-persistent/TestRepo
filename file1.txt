@@ -6,3 +6,4 @@ change 3
 change made in branch1
 change done from remote
 remote change1
+remote change2
